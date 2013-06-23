@@ -1,3 +1,15 @@
+# Asteroids, the game, by Virat Singh
+# My game utilizes the simplegui module developed by Scott Rixner, 
+# professor of Computer Science at Rice University.  
+# To most easily launch my Asteroids game, utilize his CodeSkulptor IDE, 
+# which implements the simplegui module and can be launched via browser
+# (Chrome or Firefox highly recommended. CodeSkulptor will NOT work on 
+# Internet Explorer).
+
+# Asteroids game: http://www.codeskulptor.org/#user16_ZCN3sDT4sU_14.py
+# To launch game, press the play button (right-facing triangle) at the
+# top left of the CodeSkulptor window.
+
 # program template for Spaceship
 import simplegui
 import math
