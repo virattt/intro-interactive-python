@@ -1,6 +1,7 @@
 # Asteroids, the game, by Virat Singh
-# My game utilizes the simplegui module developed by Scott Rixner, 
-# professor of Computer Science at Rice University.  
+
+# This game is written entirely in Python and utilizes the simplegui module 
+# developed by Scott Rixner, professor of Computer Science at Rice University.  
 # To most easily launch my Asteroids game, utilize his CodeSkulptor IDE, 
 # which implements the simplegui module and can be launched via browser
 # (Chrome or Firefox highly recommended. CodeSkulptor will NOT work on 
