@@ -14,11 +14,14 @@
 import simplegui
 import random
 
+# globals for user interface
 WIDTH = 800
 HEIGHT = 100
 CARD_WIDTH = 50
 CARD_HEIGHT = 100
 COLUMNS = 16
+
+# globals for memory deck
 deck = range(8) * 2 # this is the main deck
 exposed = [False] * 16 # list of boolean values to check if a given card is selected
 
