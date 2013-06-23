@@ -11,7 +11,6 @@
 # To launch game, press the play button (right-facing triangle) at the
 # top left of the CodeSkulptor window.
 
-# program template for Spaceship
 import simplegui
 import math
 import random
