@@ -7,7 +7,7 @@
 # (Chrome or Firefox highly recommended. CodeSkulptor will NOT work on 
 # Internet Explorer).
 
-# Asteroids game: http://www.codeskulptor.org/#user16_ZCN3sDT4sU_14.py
+# Asteroids game: http://www.codeskulptor.org/#user17_ZCN3sDT4sU_15.py
 # To launch game, press the play button (right-facing triangle) at the
 # top left of the CodeSkulptor window.
 
